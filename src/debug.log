@@ -1,0 +1,66 @@
+[0706/123453.235:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/104832.896:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/104832.905:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 3108
+[0720/104832.905:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/105238.779:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/105238.779:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 25536
+[0720/105238.779:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/105832.877:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/105832.996:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/105832.996:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 16696
+[0720/105832.996:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/110332.917:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/110333.013:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/110333.013:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 16516
+[0720/110333.013:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/110333.041:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/110333.041:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 23336
+[0720/110333.041:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/110431.948:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/110432.039:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/110432.039:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 17548
+[0720/110432.039:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/111351.913:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/111351.984:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/111351.985:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 13684
+[0720/111351.985:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/111352.036:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/111352.036:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 24344
+[0720/111352.036:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/112537.660:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/112537.661:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 22552
+[0720/112537.661:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/112739.119:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/112739.120:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 20988
+[0720/112739.120:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/113225.350:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/113225.350:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 26964
+[0720/113225.350:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/115708.180:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/115708.285:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/115708.285:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 23792
+[0720/115708.285:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/120056.437:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/120056.437:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 21748
+[0720/120056.437:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/120538.500:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/120538.594:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/120538.594:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 20988
+[0720/120538.594:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/134533.333:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/134533.393:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 28604
+[0720/134533.393:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/144302.462:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/144302.552:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/144302.552:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 17064
+[0720/144302.552:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/144758.614:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0720/144758.736:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/144758.736:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 16368
+[0720/144758.736:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0720/163503.267:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0720/163503.290:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 27660
+[0720/163503.290:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
+[0731/112637.146:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name osarch, discarding value x86_64
+[0731/112637.188:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name pid, discarding value 5520
+[0731/112637.188:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name ptype, discarding value utility
